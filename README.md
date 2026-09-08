@@ -1,1 +1,1 @@
-# ArtyChecker
+# ArtInspector
