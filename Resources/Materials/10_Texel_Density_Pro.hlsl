@@ -1,6 +1,6 @@
-//@name Texel_Density - Pro
+//@name Texel_Density_Pro
 //@description Mesh texel density with target density in px/m, texture resolution presets and scale-normalized UV stretch analysis. Invalid UV uses InvalidUVColor; inconclusive derivative analysis is neutral gray.
-//@order 10
+//@order 1
 //@category Density
 //@param choice TargetDensity|Target density (px/m)|1024|256=256|512=512|1K=1024|2K=2048|4K=4096
 //@param choice TextureResolution|Texture resolution|2048|512=512|1K=1024|2K=2048|4K=4096|8K=8192

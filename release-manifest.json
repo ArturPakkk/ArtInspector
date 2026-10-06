@@ -1,0 +1,10 @@
+{
+  "product": "Art Inspector",
+  "productId": "ArtInspector",
+  "version": "0.1.4",
+  "fileVersion": "0.1.4.0",
+  "platform": "win64",
+  "executable": "ArtInspector.exe",
+  "factoryConfig": "Config/DefaultEditor.ini",
+  "userConfig": "Config/UserSettings.ini"
+}

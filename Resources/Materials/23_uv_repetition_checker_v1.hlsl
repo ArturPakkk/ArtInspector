@@ -1,7 +1,7 @@
 //@unlit
-//@name UV Repetition Checker v1
+//@name UV Repetition Checker_v1
 //@description Visual macro-pattern test, NOT an automatic UV-overlap detector. Mode 0 reveals reuse of raw UV coordinates; Mode 1 previews a repeating UV pattern; Mode 2 is a continuous 3D world-space reference. Repeated distinctive patch shapes reveal repeated mapping, not a red/green verdict.
-//@order 23
+//@order 3
 //@param float CoordinateMode|Mode (0 UV / 1 Repeat / 2 World)|0|2|0
 //@param float UVPatternScale|UV pattern scale|2|32|4
 //@param float RepeatTiling|Repeat tiling|0.05|16|1

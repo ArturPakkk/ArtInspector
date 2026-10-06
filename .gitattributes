@@ -1,0 +1,3 @@
+# Preserve distribution bytes across clone/archive on every platform.
+# This repository ships a portable payload, not C++ development sources.
+* -text

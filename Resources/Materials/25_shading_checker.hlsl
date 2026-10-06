@@ -1,6 +1,6 @@
 //@name Shading Checker
 //@description Procedural studio matcap with robust normal handling, filtered highlights and optional reflection lines. Flat/smooth comparison is preserved. Invalid source normals use InvalidNormalColor; unavailable geometry/camera analysis is neutral gray.
-//@order 25
+//@order 7
 //@category Normals
 //@param float FlatShading|Flat shading|0|1|0
 //@presets Smooth=0|Flat=1

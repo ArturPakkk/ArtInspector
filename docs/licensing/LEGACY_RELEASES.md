@@ -20,7 +20,7 @@ The extra Checker tag remains at
 75e31e2434e351c965fd87ab4ff1bf42b96554a4; there is no GitHub Release object
 for it.
 
-ArtInspector 0.1.3 is a separate current release, not a legacy licensing repack.
+ArtInspector 0.1.3 was published as a separate release, not a legacy licensing repack.
 Its tag points to public distribution commit
 188da32b4053c5a58693bba3e7fecd006b0c1020.
 

@@ -1,10 +1,8 @@
 # ArtInspector distribution dependency audit
 
-2026-09-22. Scope: the audited public distribution baseline at
-ae9573b603adb6ba81f7ddac3c46d848c2a32806, its OldVersions binaries, manually
-uploaded v0.1.0 / 0.1.2 RARs, and the associated current optimized native build.
-Later licensing-cleanup commits changed documentation only, not the audited
-executables or resource payload. No private source files are included in this repo.
+2026-09-22. Scope: public main at ae9573b603adb6ba81f7ddac3c46d848c2a32806,
+its OldVersions binaries, manually uploaded v0.1.0 / 0.1.2 RARs, and the associated
+current optimized native build. No private source files are included in this repo.
 
 ## Evidence and requirements
 
@@ -70,3 +68,24 @@ of a React Spectrum package or settle the ownership of embedded coordinates.
 | Unresolved artwork/shaders/runtime entitlement | Explicit review notes | Included | Included | MANUAL REVIEW REQUIRED |
 
 License-copy checks do not authorize publication while unresolved rights remain.
+
+
+## Art Inspector 0.1.4 package inventory — 2026-10-06
+
+The earlier audit above is a historical snapshot. This package supplies seven
+HLSL material files:
+
+- `00_default_materials.hlsl`
+- `10_Texel_Density_Pro.hlsl`
+- `23_uv_repetition_checker_v1.hlsl`
+- `24_uv_PrecisionRisk.hlsl`
+- `25_shading_checker.hlsl`
+- `30_face_orientation.hlsl`
+- `40_vertex_color.hlsl`
+
+Both original HDRI maps, the original vendor license texts, fonts notices and
+main license remain bundled. New release changes do not establish the ultimate
+origin of these resources. In particular, UV Precision is an additional file
+relative to the older provenance table; its ultimate authorship/license remains
+unconfirmed here. The owner deferred provenance review on 2026-10-06. No unknown
+resource is newly declared MIT, proprietary or cleared for public redistribution.

@@ -9,7 +9,8 @@ before commercial distribution.
 
 Unless a particular version contains a different explicit license notice, these
 terms apply to the proprietary ArtInspector code and binaries published from
-https://github.com/ArturPakkk/ArtInspector_v_0.1.2, including legacy ArtInspector
+https://github.com/ArturPakkk/ArtInspector (previous repository name:
+ArtInspector_v_0.1.2), including legacy ArtInspector
 releases v0.1.0 and v0.1.2 (Git tag 0.1.2).
 
 Third-party components remain governed exclusively by their respective licenses.

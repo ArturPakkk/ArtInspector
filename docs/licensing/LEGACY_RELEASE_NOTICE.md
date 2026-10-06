@@ -14,6 +14,6 @@ The historical Git tag and commit have intentionally not been rewritten.
 This notice does not assert that the current terms appeared in the original
 commit or archive. Original archives may lack the accompanying license files.
 
-See [LICENSE.md](https://github.com/ArturPakkk/ArtInspector_v_0.1.2/blob/main/LICENSE.md),
-[third-party notices](https://github.com/ArturPakkk/ArtInspector_v_0.1.2/blob/main/licenses/THIRD_PARTY_NOTICES.md)
-and [legacy release details](https://github.com/ArturPakkk/ArtInspector_v_0.1.2/blob/main/docs/licensing/LEGACY_RELEASES.md).
+See [LICENSE.md](https://github.com/ArturPakkk/ArtInspector/blob/main/LICENSE.md),
+[third-party notices](https://github.com/ArturPakkk/ArtInspector/blob/main/licenses/THIRD_PARTY_NOTICES.md)
+and [legacy release details](https://github.com/ArturPakkk/ArtInspector/blob/main/docs/licensing/LEGACY_RELEASES.md).

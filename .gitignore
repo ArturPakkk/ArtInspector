@@ -21,3 +21,12 @@ Thumbs.db
 /.arthelper/
 /Config/UserSettings.ini
 /Config/WindowState.ini
+# Generated validation reports and internal release/build evidence.
+/material_validation.txt
+/ArtInspector_shader_error.txt
+/QA/
+/tests/
+*.obj
+*.lib
+*.res
+*.bak

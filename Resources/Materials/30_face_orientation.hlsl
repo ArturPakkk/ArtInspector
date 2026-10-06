@@ -1,9 +1,9 @@
 //@name Face Orientation
 //@description Inspects rasterized triangle winding independently of vertex normals. Front faces are blue, back faces red. Isolate either side and control back-face HDR emission separately from material lighting.
-//@order 30
+//@order 4
 //@emissive
 //@category Face visibility
-//@param choice VisibleFaces|Show faces|0|Both=0|Front=1|Back=2
+//@param choice VisibleFaces|Show Faces|0|Both=0|Front=1|Back=2
 //@category Face colors
 //@param color FrontColor|Front face|0.04|0.25|0.95
 //@param color BackColor|Back face|0.9|0.05|0.04

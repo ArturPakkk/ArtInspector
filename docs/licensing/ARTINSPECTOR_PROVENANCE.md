@@ -46,3 +46,24 @@ Resolution: record the exact upstream repository, package, file/version and appl
 NOTICE and modification requirements, or commission/implement a clearly recorded
 replacement in a separate authorized task. No rendering, checker or icon changes
 were made merely to close this audit.
+
+
+## Art Inspector 0.1.4 package inventory — 2026-10-06
+
+The earlier audit above is a historical snapshot. This package supplies seven
+HLSL material files:
+
+- `00_default_materials.hlsl`
+- `10_Texel_Density_Pro.hlsl`
+- `23_uv_repetition_checker_v1.hlsl`
+- `24_uv_PrecisionRisk.hlsl`
+- `25_shading_checker.hlsl`
+- `30_face_orientation.hlsl`
+- `40_vertex_color.hlsl`
+
+Both original HDRI maps, the original vendor license texts, fonts notices and
+main license remain bundled. New release changes do not establish the ultimate
+origin of these resources. In particular, UV Precision is an additional file
+relative to the older provenance table; its ultimate authorship/license remains
+unconfirmed here. The owner deferred provenance review on 2026-10-06. No unknown
+resource is newly declared MIT, proprietary or cleared for public redistribution.

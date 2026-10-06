@@ -43,7 +43,7 @@ its redistribution is governed by the applicable Visual Studio terms.
 
 ## Provenance requiring review
 
-The procedural UI icon coordinates/tokens, application logo and eleven checker
+The procedural UI icon coordinates/tokens, application logo and bundled checker
 shaders lack a complete author/source provenance record. They are not assigned
 an invented third-party license here. LICENSE REQUIRES MANUAL REVIEW before
 public redistribution. Source/Icons describes possible Unreal candidate assets,
@@ -62,3 +62,24 @@ corroborating evidence, not proof of an earlier executable's exact version.
 See [the per-artifact audit](../docs/licensing/DEPENDENCY_LICENSE_AUDIT.md).
 
 Ultimate origin/authorship of UI icons and the logo has not been conclusively established. MANUAL REVIEW REQUIRED. No third-party license is assigned without file-level evidence. If an upstream source is identified, record the exact repository, package, file/version, license, NOTICE requirements and modification requirements.
+
+
+## Art Inspector 0.1.4 package inventory — 2026-10-06
+
+The earlier audit above is a historical snapshot. This package supplies seven
+HLSL material files:
+
+- `00_default_materials.hlsl`
+- `10_Texel_Density_Pro.hlsl`
+- `23_uv_repetition_checker_v1.hlsl`
+- `24_uv_PrecisionRisk.hlsl`
+- `25_shading_checker.hlsl`
+- `30_face_orientation.hlsl`
+- `40_vertex_color.hlsl`
+
+Both original HDRI maps, the original vendor license texts, fonts notices and
+main license remain bundled. New release changes do not establish the ultimate
+origin of these resources. In particular, UV Precision is an additional file
+relative to the older provenance table; its ultimate authorship/license remains
+unconfirmed here. The owner deferred provenance review on 2026-10-06. No unknown
+resource is newly declared MIT, proprietary or cleared for public redistribution.

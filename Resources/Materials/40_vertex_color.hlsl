@@ -1,6 +1,6 @@
 //@name Vertex Color
 //@description Inspects linear mesh vertex colors. R/G/B are grayscale; RGB shows all channels. Missing vertex colors use the importer's white default.
-//@order 40
+//@order 5
 //@category Channels
 //@param choice Channel|Channel|3|R=0|G=1|B=2|RGB=3
 //@category Display
