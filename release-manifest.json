@@ -1,10 +1,15 @@
 {
   "product": "Art Inspector",
   "productId": "ArtInspector",
-  "version": "0.1.4",
-  "fileVersion": "0.1.4.0",
+  "version": "0.1.5",
+  "fileVersion": "0.1.5.0",
   "platform": "win64",
   "executable": "ArtInspector.exe",
   "factoryConfig": "Config/DefaultEditor.ini",
-  "userConfig": "Config/UserSettings.ini"
+  "userConfig": "Config/UserSettings.ini",
+  "blenderBridge": {
+    "sha256": "05b5fbe9a2caa6800a4d0bee69fc8924894e1b1f915fff361e3d1b6b85b77d42",
+    "version": "1.2.0",
+    "package": "Blender/ArtInspector_Blender_Bridge.zip"
+  }
 }
